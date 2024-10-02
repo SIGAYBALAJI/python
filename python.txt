@@ -1,0 +1,33 @@
+python
+
+scripting----->print(20+30)
+procedural----->functions  
+def add():
+----print(20+30)
+add()
+oops-------->functions, class, objects
+class demo:
+----def add(self):
+    ----print(20+30)
+d1=demo()
+d1.demo()
+
+data types
+
+integer------------->67,89,7-------------------------->unlimited 
+floating----------->4.5,5.6---------------------------->unlimited
+string-------------->"anitha"---------------->"a"
+
+boolean-------------->true/false
+complex------------------->4+8j
+ 
+advance data types
+ list[67,4.5]
+ tuple()
+ set{}
+dict{key:value}{a:10)
+
+
+
+
+

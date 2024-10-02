@@ -1,7 +1,18 @@
-from collections import Counter
-str="swiss"
-char_count=Counter(str)
-for char in str:
-    if char_count[char]==1:
-        print(char)
-        break
+print("hello world")
+# scripting language:
+print(20+30)
+ # procedural language:
+def demo():
+    print(20+30)
+    print(30+40)
+demo()
+# oop
+class oop:
+    def demo(self):
+        print(20+30)
+d1=oop()
+d1.demo()
+    
+    
+
+

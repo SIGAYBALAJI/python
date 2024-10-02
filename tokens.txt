@@ -1,0 +1,6 @@
+tokens
+1)identifers
+2)operators
+3)puncuvator
+4)keywords
+5)literls

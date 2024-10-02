@@ -1,1 +1,0 @@
-hi i'm learing file handling in python
